@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     description: "Crafting digital experiences that leave lasting impressions.",
     images: [
       {
-        url: '/screenshot.png',
+        url: '/screenshot.png?v=1',
         width: 1200,
         height: 630,
         alt: 'Screenshot of 82 Studio website',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "Eighty Two Studio",
     description: "Crafting digital experiences that leave lasting impressions.",
-    images: ['/screenshot.png'],
+    images: ['/screenshot.png?v=1'],
   },
 };
 

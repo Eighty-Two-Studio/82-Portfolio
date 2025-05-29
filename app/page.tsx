@@ -26,7 +26,7 @@ export default function Home() {
           <h1 className="motion-delay-700 motion-opacity-in-0 motion-translate-y-in-150">you won&apos;t forget</h1>
         </div>
 
-        <Image src="/banner.jpg" width="600" height="0" alt="" unoptimized className="w-[250px] md:w-[600px] h-[50px] md:h-[100px] object-cover rounded-full drop-shadow-lg md:drop-shadow-xl drop-shadow-black/30 mb-5 md:mb-10 motion-delay-[900ms] motion-opacity-in-0 motion-translate-y-in-150" />
+        <Image src="/banner.jpg" width="600" height="0" alt="" className="w-[250px] md:w-[600px] h-[50px] md:h-[100px] object-cover rounded-full drop-shadow-lg md:drop-shadow-xl drop-shadow-black/30 mb-5 md:mb-10 motion-delay-[900ms] motion-opacity-in-0 motion-translate-y-in-150" />
         <p className="w-[70dvw] md:text-xl md:w-[500px] text-center motion-delay-[1100ms] motion-opacity-in-0 motion-translate-y-in-150">We are Eighty Two Studio - a web and app development team focused on creating sleek, high-performing digital experiences for brands that want to stand out.</p>
       {/* <PiStarFourFill size={60} className="my-10 text-[var(--secondary)]"/> */}
       </div>

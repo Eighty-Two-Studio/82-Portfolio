@@ -14,6 +14,7 @@ export const metadata: Metadata = {
   description: "Crafting digital experiences that leave lasting impressions.",
   icons: {
     icon: '/icon-logo.svg',
+    apple: '/icon-logo.svg',
   },
 
   openGraph: {
